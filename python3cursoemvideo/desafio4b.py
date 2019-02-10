@@ -1,0 +1,5 @@
+smt = input('Digite algo: ')
+print('O tipo primordial é : ', type(smt))
+print('se for numérico será true: ', smt.isnumeric())
+print('se for letra será true: ', smt.isalpha())
+print('se for alfanumérico será true: ', smt.isalnum())

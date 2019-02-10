@@ -1,0 +1,2 @@
+n1 = int(input('Digite quanto quer converder de metros para centímetros e milímetros:'))
+print('{} metros em centímetros é: {} cm \n{} metros convertidos em milímetros é: {} mili'.format(n1, n1*100, n1, n1 * 1000))
