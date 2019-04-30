@@ -51,6 +51,9 @@ class Conta:
     def codigos_bancos():
         return {'BB':'001', 'Caixa':'104', 'Bradesco': '237'}
 
+print("Qualquer coisa")
+
+
 #
 # from conta import Conta
 #
